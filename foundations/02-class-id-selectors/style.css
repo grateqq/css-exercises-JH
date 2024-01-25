@@ -1,0 +1,61 @@
+/* solucion */
+.odd {
+    background-color: rgb(197, 136, 136);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.adjust-font-size {
+    font-size: 24px;
+}
+#two {
+    color: #0000ff;
+    font-size: 36px;
+    }
+
+#four {
+    background-color: hsl(120, 100%, 75%);
+    font-weight: bold;
+}
+/* selecciona los tres impares como p */
+*#sec { 
+    color: blue; 
+    font-size: 36px;}
+*#cuatro {
+    background-color: aquamarine;
+    font-size: 80px;
+    font-weight: bold;
+
+*}
+p  {
+    background-color: rosybrown;
+    font-style: Verdana;
+    
+}
+*.dam {
+    font-size: 24px;
+
+}
+
+/*
+Elementos
+
+Primer  p
+    Fondo rojo claro
+    Fuente Verdana
+
+Segundo div
+        Texto azul
+        Tamaña de texto 36px
+
+Tercer  p 
+    Fondo rojo claro
+    Fuente Verdana
+    Tamaña de texto 24
+   
+Cuarto  div
+        Un fondo color verde
+    Tamaño de texto 24
+        Tipo de letra negrita
+Quinto  p
+    Fondo rojo claro
+    Fuente Verdana
+*/
