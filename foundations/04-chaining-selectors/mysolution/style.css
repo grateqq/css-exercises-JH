@@ -1,0 +1,33 @@
+/* Add CSS Styling */
+.avatar.proportioned {
+    height: auto;
+    width: 300px;
+
+}
+.avatar.distorted {
+    height: 400px;
+    width: 200px;
+}
+
+.original  {
+    height: 100px;
+    width: 100px;
+}
+
+
+
+
+
+
+
+
+
+/* 
+Haz que el elemento con las clases avatar y proportioned tenga un ancho de 300 píxeles, 
+luego dale una altura para que conserve sus proporciones cuadradas originales 
+(¡no codifiques un valor de píxeles para la altura!).
+
+Haz que el elemento con las clases avatar y distorted tenga un ancho de 200 píxeles, 
+luego haz que su altura sea el doble de su ancho 
+(aquí deberías codificar un valor de píxeles).
+ */
